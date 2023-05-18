@@ -1,7 +1,7 @@
 # My FreeCodeCamp Projects
 
 <p align="center">
-  <img src="https://your-image-url" alt="FreeCodeCamp Projects">
+  <img src="https://www.henleyherald.com/wp-content/uploads/2019/08/66734754_10156176643630988_883564894085971968_o.jpg" alt="FreeCodeCamp Projects">
 </p>
 
 <p align="center">This repository showcases the projects I have completed during my journey with FreeCodeCamp.</p>
@@ -60,6 +60,3 @@ Thank you for checking out my FreeCodeCamp projects! I hope you find them intere
   <img src="https://your-cool-image-url" alt="Cool Image">
 </p>
 
-<p align="center">
-  <img src="https://your-gif-url" alt="Cool GIF">
-</p>
