@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="Cool Image">
+  <img src="https://miro.medium.com/v2/resize:fit:640/0*41inHKnPhGb04HsO.gif" alt="Cool Image">
 </p>
 
 <p align="center">This repository showcases the projects I have completed during my journey with FreeCodeCamp.</p>
