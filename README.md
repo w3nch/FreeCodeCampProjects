@@ -1,7 +1,6 @@
 # My FreeCodeCamp Projects
-
 <p align="center">
-  <img src="https://www.henleyherald.com/wp-content/uploads/2019/08/66734754_10156176643630988_883564894085971968_o.jpg" alt="FreeCodeCamp Projects">
+  <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="Cool Image">
 </p>
 
 <p align="center">This repository showcases the projects I have completed during my journey with FreeCodeCamp.</p>
@@ -56,7 +55,5 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 
 Thank you for checking out my FreeCodeCamp projects! I hope you find them interesting and valuable. If you have any questions or suggestions, please feel free to reach out.
 
-<p align="center">
-  <img src="https://your-cool-image-url" alt="Cool Image">
-</p>
+
 
