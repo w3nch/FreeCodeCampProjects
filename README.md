@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/max/720/0*41inHKnPhGb04HsO.gif" alt="Cool Image">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Cool Image">
 </p>
 
 <p align="center">This repository showcases the projects I have completed during my journey with FreeCodeCamp.</p>
